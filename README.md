@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+;My+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+profile)](https://git.io/typing-svg)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mesoydemir&show_icons=true">
 
